@@ -1,4 +1,4 @@
-# animatedPortrait
+## 人脸识别 + 人像动漫画 + Uniapp
 
 ########### 环境依赖
 + node 16.15.1
